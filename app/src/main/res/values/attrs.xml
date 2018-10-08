@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="OneText">
+        <attr name="textStyle" format="string"/>
+    </declare-styleable>
+
+    <declare-styleable name="OneEditText">
+        <attr name="editStyle" format="string"/>
+    </declare-styleable>
+
+</resources>
+

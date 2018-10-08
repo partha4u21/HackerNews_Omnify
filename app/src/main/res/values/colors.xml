@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5499C7</color>
+    <color name="colorPrimaryDark">#2471A3</color>
+    <color name="colorAccent">#2471A3</color>
+    <color name="vibrant_green">#87BA53</color>
+    <color name="chat_grey">#404040</color>
+</resources>

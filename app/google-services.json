@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "294001668310",
+    "firebase_url": "https://hackernews-ee435.firebaseio.com",
+    "project_id": "hackernews-ee435",
+    "storage_bucket": "hackernews-ee435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294001668310:android:2829bc3b244bae12",
+        "android_client_info": {
+          "package_name": "com.piper.hackernews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294001668310-0h57cuvn1gie780f95353kc5f9qe6s8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.piper.hackernews",
+            "certificate_hash": "e81945b48445de199c55cbacbb7790190f37ac37"
+          }
+        },
+        {
+          "client_id": "294001668310-t2lm92mfans3pi16hro2ddidiuj93g6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs_pcDxhu_66I_ojYNyIlWQMAZupUyep0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294001668310-55ok4lq2c73pu76588u6mona72mi0cfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
